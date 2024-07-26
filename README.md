@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
 <h3 align="center">Embedded System Developer</h3> 
 
-<br /><br />
+<br />
 
-- 🌱 I’m currently learning **Embedded Systems , STM32 - ARM architecture , System Programming**
+- 🌱 I’m currently learning **Embedded Systems**
 
-- 💬 Ask me about **C, C++, C#, Desktop GUI , Embedded Systems , System Programming**
+- 💬 Ask me about **C, C++, C#, Desktop GUI , Embedded Systems**
 
 - 📫 How to reach me **alperen_0150@hotmail.com**
 
