@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
 <h3 align="center">Embedded System Developer</h3> 
-
 <br />
 
 - 🌱 I’m currently learning **Embedded Systems**
