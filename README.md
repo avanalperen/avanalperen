@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Embedded Systems**
 
-- 💬 Ask me about **C, C++, C#, Desktop GUI , Embedded Systems**
+- 💬 Ask me about **C, C++, C#, Python, Arduino, STM 32, Desktop GUI, SBC GUI, Embedded Systems**
 
 - 📫 How to reach me: <a href="mailto:alperen_0150@hotmail.com">alperen_0150@hotmail.com</a>
 
