@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: <a href="mailto:alperen_0150@hotmail.com">alperen_0150@hotmail.com</a>
 
-- ⚡ Fun fact **I know I'm crazy**
+- ⚡ Fun fact **Open to work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
