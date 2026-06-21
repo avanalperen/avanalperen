@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineering Student</h3> 
 <br />
 
-- 🌱 I’m currently learning **Embedded Systems,Linux UI Development,Web and mobile UI Development, Computer Vision and Data Analytics**
+- 🌱 I’m currently developing **AI Integrated Systems** and searching about **AI in Robotic**
 
-- 💬 Ask me about **C, C++, C#, Python, Arduino, Computer Vision, Web Development,Mobile Development,Data Analytics, STM 32, Desktop GUI, Linux GUI and Embedded Systems**
+- 💬 Ask me about **AI,Robotics,Research Projects**
 
 - 📫 How to reach me: <a href="mailto:alperen_0150@hotmail.com">alperen_0150@hotmail.com</a>
 
