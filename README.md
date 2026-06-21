@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
-<h3 align="center">Software Engineering Student</h3> 
+<h3 align="center">Software Engineering Graduate | AI Developer</h3> 
 <br />
 
 - 🌱 I’m currently developing **AI Integrated Systems** and searching about **AI in Robotic**
